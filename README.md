@@ -1,4 +1,4 @@
-# Python Spotify Analysis
+# Spotify Analysis
 
 A Python data analysis project exploring trends in top Spotify tracks. Uses the Spotify dataset to uncover patterns in song features like energy, danceability, tempo, and popularity.
 
